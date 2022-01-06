@@ -25,7 +25,7 @@
 
 样式配置，支持选择，代码两种配置模式
 
-![Image text](https://raw.githubusercontent.com/gavinMuYi/VvPage/main/static/屏幕快照 2021-05-11 下午5.36.19.png)
+![Image text](https://raw.githubusercontent.com/gavinMuYi/VvPage/main/static/屏幕快照%202021-05-11%20下午5.36.19.png)
 ![Image text](https://raw.githubusercontent.com/gavinMuYi/VvPage/main/static/企业微信截图_d568ea29-dc57-4a77-861d-19451a4d22a8.png)
 
 ### 模块二
