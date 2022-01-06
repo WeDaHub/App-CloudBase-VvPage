@@ -1,4 +1,4 @@
-# lowCode
+# VvPage 为前端打造的低代码平台
 
 ## 仓库地址
     https://github.com/gavinMuYi/VvPage
